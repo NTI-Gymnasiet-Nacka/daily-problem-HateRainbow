@@ -1,0 +1,19 @@
+{
+  "Example Department": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@gmail.com",
+      "team": 1
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@gmail.com",
+      "team": 1
+    },
+    {
+      "name": "Michael Johnson",
+      "email": "michael.johnson@gmail.com",
+      "team": 2
+    }
+  ]
+}
